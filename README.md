@@ -12,6 +12,8 @@ In the computer world, where I started my studies with Java language since 2015,
 * 🤝  I'm open to collaborating on Minecraft servers
 * ⚡  I love creating and putting out new things!
 
+https://gitlocalize.com/users/OverBrave
+
 <a href="https://www.twitch.tv/Over_Brave" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitch/status/Over_Brave?logo=twitchsx&style=for-the-badge&color=0891b2&labelColor=1c1917&label=TWITCH+STATUS" /></a>
 ### Skills
