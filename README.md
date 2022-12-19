@@ -1,7 +1,7 @@
 Hi 👋 My name is Yavuz
 ======================
 
-Backend Developer
+Developer of Somethings
 -----------------
 
 In the computer world, where I started my studies with Java language since 2015, I found myself designing the infrastructure of many things. I try to progress in Flutter, Kotlin, Python and many more software languages.
