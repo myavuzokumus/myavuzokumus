@@ -4,7 +4,7 @@ Hi 👋 My name is Yavuz
 Developer of Somethings
 -----------------
 
-In the computer world, where I started my studies with Java language since 2015, I found myself designing the infrastructure of many things. I try to progress in Flutter, Kotlin, Python and many more software languages.
+In the computer world, where I started my studies with Java language since 2015, I found myself designing the infrastructure of many things. I try to progress in Dart (Flutter), Kotlin, Python and many more software languages.
 
 * ✉️  You can contact me at [over55brave@gmail.com](mailto:over55brave@gmail.com)
 * ⚡  I love creating and putting out new things!
@@ -16,6 +16,7 @@ src="https://img.shields.io/twitch/status/Over_Brave?logo=twitchsx&style=for-the
 
 ### Skills
 
+<a href="https://dart.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dart-colored.svg" width="36" height="36" alt="Dart" /></a>
 <a href="https://flutter.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="36" height="36" alt="Flutter" /></a>
 <a href="https://kotlinlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kotlin-colored.svg" width="36" height="36" alt="Kotlin" /></a>
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
