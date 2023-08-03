@@ -32,7 +32,7 @@ Think creatively and produce new ideas for the platform you worked on!
 <details>
 <summary><b>Little things about me</b></summary>
 
-##### I used these a lot before but no longer for now
+##### I used to use these a lot but not anymore, at least for now.
 
 <p align="left">
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
