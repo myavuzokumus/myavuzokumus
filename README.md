@@ -3,7 +3,9 @@
 
 Think creatively and produce new ideas for the platform you worked on!
 
-* 🧠  I'm learning AI & ML with <a href="https://www.modular.com/mojo" target="_blank" rel="noreferrer">MOJO 🔥</a>
+* 🧠  I'm learning:
+  - AI & ML with <a href="https://www.modular.com/mojo" target="_blank" rel="noreferrer">MOJO 🔥</a>
+  - Godot Engine in my free time to make games!
 
 ### Skills
 
