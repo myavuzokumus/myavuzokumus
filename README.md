@@ -2,8 +2,9 @@
 ======================
 
 Think creatively and produce new ideas for the platform you worked on!
+Don’t get stuck on one platform, grow and adapt to different platforms. But for now, I prefer using Dart and Flutter for my software.
 
-* 🧠  I'm learning:
+* 🧠  Also I'm learning:
   - AI & ML with <a href="https://www.modular.com/mojo" target="_blank" rel="noreferrer">MOJO 🔥</a>
   - Godot Engine in my free time to make games!
 
