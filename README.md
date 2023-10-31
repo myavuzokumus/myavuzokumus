@@ -1,11 +1,8 @@
 👋 Hi, it's me, Yavuz!
 ======================
-I continue as a **Mathematics and Computer Science Student** with confident steps on this path that I started by being inspired by games and reaching the _endless points of my imagination!_
-
-
+### I continue as a "**Mathematics and Computer Science Student**" with confident steps on this path that I started by being inspired by games and reaching the _endless points of my imagination!_
 
 Think creatively and produce new ideas for the platform you worked on!
-Don’t get stuck on one platform, grow and adapt to different platforms. But for now, I prefer using Dart and Flutter for my software.
 
 * 🚀  I'm currently working on [FastInvoiceReader](http://github.com/OverBrave/FastInvoiceReader) & [WeatherApp](https://github.com/OverBrave/WeatherApp)
 * 🧠  Also I'm learning:
