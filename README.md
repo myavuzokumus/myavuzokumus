@@ -40,5 +40,5 @@ Think creatively and produce new ideas for the platform you worked on!
 </details>
 
 
-<a href="https://www.buymeacoffee.com/scriber"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
+<a href="https://www.buymeacoffee.com/myavuzokumus"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
 </div>
