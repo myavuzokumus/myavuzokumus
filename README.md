@@ -33,10 +33,10 @@ Think creatively and produce new ideas for the platform you worked on!
 <details>
 <summary><b>My GitHub Stats</b></summary>
 
-<a href="http://www.github.com/OverBrave"><img src="https://github-readme-stats.vercel.app/api?username=OverBrave&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="OverBrave's GitHub stats" /></a>
-<a href="http://www.github.com/OverBrave"><img src="https://github-readme-streak-stats.herokuapp.com/?user=OverBrave&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://www.github.com/myavuzokumus"><img src="https://github-readme-stats.vercel.app/api?username=myavuzokumus&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="myavuzokumus's GitHub stats" /></a>
+<a href="http://www.github.com/myavuzokumus"><img src="https://github-readme-streak-stats.herokuapp.com/?user=myavuzokumus&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=myavuzokumus&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages&layout=compact)
 
-<a href="https://github.com/OverBrave" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OverBrave&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 </details>
 
 
