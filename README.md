@@ -4,12 +4,10 @@
 
 Think creatively and produce new ideas for the platform you worked on!
 
-* 🚀  I'm currently working on [FastInvoiceReader](http://github.com/OverBrave/FastInvoiceReader) & [WeatherApp](https://github.com/OverBrave/WeatherApp)
+* 🚀  I'm currently working on [FastInvoiceReader](http://github.com/OverBrave/FastInvoiceReader) & Solution Challenge Project
 * 🧠  Also I'm learning:
   - AI & ML with <a href="https://www.modular.com/mojo" target="_blank" rel="noreferrer">MOJO 🔥</a>
   - Godot Engine in my free time to make games!
-    
-✉️  You can contact me at yavusm1@gmail.com
 
 ### Skills
 
