@@ -4,7 +4,7 @@
 
 Think creatively and produce new ideas for the platform you worked on!
 
-* 🚀  I'm currently working on [FastInvoiceReader](http://github.com/OverBrave/FastInvoiceReader) & Solution Challenge Project
+* 🚀  I'm currently working on the Teknofest artificial intelligence competition in transportation.
 * 🧠  Also I'm learning:
   - AI & ML with <a href="https://www.modular.com/mojo" target="_blank" rel="noreferrer">MOJO 🔥</a>
   - Godot Engine in my free time to make games!
@@ -25,6 +25,7 @@ Think creatively and produce new ideas for the platform you worked on!
 
 <a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" width="36" height="36" alt="Google Cloud" /></a>
 <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored-dark.svg" width="36" height="36" alt="Photoshop" /></a>
+<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 
 
 <div align="center">
