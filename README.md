@@ -1,6 +1,6 @@
 👋 Hi, it's me, Yavuz!
 ======================
-### I continue as a "**Mathematics and Computer Science Student**" with confident steps on this path that I started by being inspired by games and reaching the _endless points of my imagination!_
+### I continue with confident steps on this path that I started by being inspired by games and reaching the _endless points of my imagination!_
 
 Think creatively and produce new ideas for the platform you worked on!
 
