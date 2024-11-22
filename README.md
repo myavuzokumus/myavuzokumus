@@ -4,10 +4,15 @@
 
 Think creatively and produce new ideas for the platform you worked on!
 
-* 🚀  I'm currently working on the Teknofest artificial intelligence competition in transportation.
+* 🚀  I'm currently working on:
+  - Teknofest Model Satellite competition (STM32)
+  - A horror game (UE5)
+  - InvoiX: The AI invoice analyzer and categorizer app (Flutter)
+  - Final research project on "Dynamic goal setting with user interaction: An Adaptive System Research Supported by Artificial Intelligence and Reinforcement Learning" with support from Tübitak
 * 🧠  Also I'm learning:
   - AI & ML with <a href="https://www.modular.com/mojo" target="_blank" rel="noreferrer">MOJO 🔥</a>
-  - Godot Engine in my free time to make games!
+* What have I done so far?
+  - Artificial intelligence and visual position estimation algorithm that controls landing areas and obstacles on them and decides the landing status (Teknofest Competetion, Final Result: Finalist)
 
 ### Skills
 
