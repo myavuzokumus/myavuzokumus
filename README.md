@@ -6,14 +6,17 @@ Think creatively and produce new ideas for the platform you worked on!
 
 * 🚀  I'm currently working on:
   - Teknofest Model Satellite competition (STM32)
-  - Final research project on "Dynamic goal setting with user interaction: An Adaptive System Research Supported by Artificial Intelligence and Reinforcement Learning" with support from Tübitak
+  - SCSmash! (Godot for now)
 * 🧠  Also I'm learning:
-  - AI & ML with <a href="https://www.modular.com/mojo" target="_blank" rel="noreferrer">MOJO 🔥</a>
-  - Game Engines (Godot, Unity)
+  - AI & ML with [MOJO 🔥](https://www.modular.com/mojo/)
+  - Backend Systems with [ServerPod 🚀](https://serverpod.dev/)
 * What have I done so far?
   - [InvoiX: The AI invoice analyzer and categorizer app. It is still being developed. ](https://invoix.sc-riber.com/)
+    - The technologies used are Flutter, ML Kit, Gemini, Firebase.
+  - The remote management of hotel rooms is facilitated by AI support, enabling seamless oversight and control. (Teknofest Competition, Final Result: 3rd)
+    - The technologies used are Flutter and the AWS cloud system with IoT Core, Lambda, DynamoDB, Amplify v2, GraphQL. 
+  - Artificial intelligence and visual position estimation algorithm that controls landing areas and obstacles on them and decides the landing status. (Teknofest Competetion, Final Result: Finalist)
   - Small projects for fun (Discord Bot, Minecraft, Exercises for some of my projects etc.), on GitHub
-  - Artificial intelligence and visual position estimation algorithm that controls landing areas and obstacles on them and decides the landing status (Teknofest Competetion, Final Result: Finalist)
 
 
 <div align="center">
