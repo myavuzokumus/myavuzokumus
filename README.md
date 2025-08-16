@@ -5,8 +5,8 @@
 Think creatively and produce new ideas for the platform you worked on!
 
 * 🚀  I'm currently working on:
-  - Teknofest Model Satellite competition (STM32)
-  - SCSmash! (Godot for now)
+  - AI (Literally :D)
+  - SCSmash! (Godot Engine)
 * 🧠  Also I'm learning:
   - AI & ML with [MOJO 🔥](https://www.modular.com/mojo/)
   - Backend Systems with [ServerPod 🚀](https://serverpod.dev/)
@@ -14,10 +14,13 @@ Think creatively and produce new ideas for the platform you worked on!
   - [InvoiX: The AI invoice analyzer and categorizer app. It is still being developed. ](https://invoix.sc-riber.com/)
     - The technologies used are Flutter, ML Kit, Gemini, Firebase.
   - The remote management of hotel rooms is facilitated by AI support, enabling seamless oversight and control. (Teknofest Competition, Final Result: 3rd)
-    - The technologies used are Flutter and the AWS cloud system with IoT Core, Lambda, DynamoDB, Amplify v2, GraphQL. 
+    - The technologies used are Flutter and the AWS cloud system with IoT Core, Lambda, DynamoDB, Amplify v2, GraphQL.
   - Artificial intelligence and visual position estimation algorithm that controls landing areas and obstacles on them and decides the landing status. (Teknofest Competetion, Final Result: Finalist)
-  - Small projects for fun (Discord Bot, Minecraft, Exercises for some of my projects etc.), on GitHub
-
+  - Functional satellite software that can perform the tasks of receiving, sending and processing data from the satellite, which is launched up to 700m and automatically opens its parachute from 400m. F401, LoRa E220, LoRa Ra-01, SD Card Reader, BMP280, MPU9250, Servo motors, Raspberry Pi Zero W, Raspberry Pi Camera, TS/RS832 were actively worked with. (Teknofest Competetion, STM32 FreeRTOS)
+    - Collection of data sent from ground transmitters and carrier by the payload.
+    - Display of all collected data from the ground station and satellite status tracking.
+    - Instant video of the satellite's view of the earth and colour filter that can be changed on command.
+  - Small projects and contributions for fun (Discord bot, Minecraft, tutorials for some of my projects, etc.), on GitHub
 
 <div align="center">
 <details>
