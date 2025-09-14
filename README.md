@@ -11,7 +11,7 @@ Think creatively and produce new ideas for the platform you worked on!
   - AI & ML with [MOJO 🔥](https://www.modular.com/mojo/)
   - Backend Systems with [ServerPod 🚀](https://serverpod.dev/)
 * What have I done so far?
-  - [InvoiX: The AI invoice analyzer and categorizer app. It is still being developed. ](https://invoix.sc-riber.com/)
+  - [InvoiX: The AI invoice analyzer and categorizer app. It is still being developed. ](https://sc-riber.com/products/invoix)
     - The technologies used are Flutter, ML Kit, Gemini, Firebase.
   - The remote management of hotel rooms is facilitated by AI support, enabling seamless oversight and control. (Teknofest Competition, Final Result: 3rd)
     - The technologies used are Flutter and the AWS cloud system with IoT Core, Lambda, DynamoDB, Amplify v2, GraphQL.
