@@ -20,6 +20,7 @@ Think creatively and produce new ideas for the platform you worked on!
     - Collection of data sent from ground transmitters and carrier by the payload.
     - Display of all collected data from the ground station and satellite status tracking.
     - Instant video of the satellite's view of the earth and colour filter that can be changed on command.
+  - A modern, fast and reliable microservices architecture that is cloud-native and Kubernetes-ready. The following technologies are used: Cloudflare Workers (failover routing), Cloudflare Tunnels (protection), Docker (container management and rolling update), Traefik (load balancer and service discovery), Flutter (frontend), FastAPI (services), RabbitMQ (message broker), Couchbase (database) and VictoriaMetrics + Grafana (monitoring and alerting).
   - Small projects and contributions for fun (Discord bot, Minecraft, tutorials for some of my projects, etc.), on GitHub
 
 <div align="center">
