@@ -1,27 +1,66 @@
-👋 Hi, it's me, Yavuz!
-======================
-### I continue with confident steps on this path that I started by being inspired by games and reaching the _endless points of my imagination!_
+# Hi, it's me, Yavuz! 👋
+### Software Engineer specializing in AI & Cloud-Native Systems
 
-Think creatively and produce new ideas for the platform you worked on!
+> I'm an engineer driven by a simple belief: for every complex problem, there is an elegant, high-performance solution waiting to be built. My journey, inspired by the boundless worlds of gaming, has evolved into a passion for architecting intelligent, robust, and beautiful systems—from the bare metal to the user's fingertips.
 
-* 🚀  I'm currently working on:
-  - AI (Literally :D)
-  - SCSmash! (Godot Engine)
-* 🧠  Also I'm learning:
-  - AI & ML with [MOJO 🔥](https://www.modular.com/mojo/)
-  - Backend Systems with [ServerPod 🚀](https://serverpod.dev/)
-* What have I done so far?
-  - [InvoiX: The AI invoice analyzer and categorizer app. It is still being developed. ](https://sc-riber.com/products/invoix)
-    - The technologies used are Flutter, ML Kit, Gemini, Firebase.
-  - The remote management of hotel rooms is facilitated by AI support, enabling seamless oversight and control. (Teknofest Competition, Final Result: 3rd)
-    - The technologies used are Flutter and the AWS cloud system with IoT Core, Lambda, DynamoDB, Amplify v2, GraphQL.
-  - Artificial intelligence and visual position estimation algorithm that controls landing areas and obstacles on them and decides the landing status. (Teknofest Competetion, Final Result: Finalist)
-  - Functional satellite software that can perform the tasks of receiving, sending and processing data from the satellite, which is launched up to 700m and automatically opens its parachute from 400m. F401, LoRa E220, LoRa Ra-01, SD Card Reader, BMP280, MPU9250, Servo motors, Raspberry Pi Zero W, Raspberry Pi Camera, TS/RS832 were actively worked with. (Teknofest Competetion, STM32 FreeRTOS)
-    - Collection of data sent from ground transmitters and carrier by the payload.
-    - Display of all collected data from the ground station and satellite status tracking.
-    - Instant video of the satellite's view of the earth and colour filter that can be changed on command.
-  - A modern, fast and reliable microservices architecture that is cloud-native and Kubernetes-ready. The following technologies are used: Cloudflare Workers (failover routing), Cloudflare Tunnels (protection), Docker (container management and rolling update), Traefik (load balancer and service discovery), Flutter (frontend), FastAPI (services), RabbitMQ (message broker), Couchbase (database) and VictoriaMetrics + Grafana (monitoring and alerting).
-  - Small projects and contributions for fun (Discord bot, Minecraft, tutorials for some of my projects, etc.), on GitHub
+My professional focus is concentrated on two core pillars where I aim to deliver maximum impact:
+
+*   **🧠 AI & Machine Learning:** Architecting and deploying production-grade intelligent systems. My expertise spans from computer vision pipelines with `Python` and `Langchain` to exploring next-generation AI performance with `Mojo 🔥`.
+*   **☁️ Cloud-Native & High-Performance Systems:** Forging rock-solid, lightning-fast services with `Rust` and deploying them on scalable cloud infrastructure using technologies like `AWS`, `Cloudflare` and `Docker`.
+
+Beyond my core focus, I leverage my experience in frontend and game development as a creative outlet and to build full-stack personal projects:
+
+*   **📱 Frontend & Mobile:** Using `Flutter` to create intuitive user interfaces for my backend services.
+*   **🎮 Game Development:** Exploring creativity and interactive design with the `Godot Engine`.
+
+---
+
+### 🔭 What I'm Focused On Now
+
+My primary goal is to deepen my expertise in AI and Cloud technologies:
+*   **Mastering `Rust`:** Building a deep understanding of systems programming for high-performance cloud services.
+*   **Production-Ready AI:** Architecting scalable, end-to-end MLOps pipelines with `Python` and `FastAPI`.
+
+As a passion, I continue to:
+*   **Build `SCSmash!`:** My personal game project using the `Godot Engine`.
+*   **Explore `Swift`:** Strategically learning Swift to understand native platform capabilities.
+
+---
+
+### 🏆 Key Projects & Professional Experience
+
+A selection of my work, including proprietary and open-source projects:
+
+<details>
+<summary><b>Click to expand and see project details</b></summary>
+<br>
+
+- ### Cloud-Native Microservices Architecture
+  - **Description:** Designed and built a modern, fast, and reliable microservices system ready for Kubernetes deployment.
+  - **Technologies:** `Cloudflare` (Workers, Tunnels), `Docker`, `Traefik` (Load Balancer), `Flutter`, `GraphQL`, `FastAPI`, `RabbitMQ`, `Couchbase`, `VictoriaMetrics` & `Grafana`.
+  - **Note:** This project is a proprietary, full-stack implementation showcasing modern DevOps and backend principles.
+
+- ### AI-Powered IoT Hotel Management (Teknofest 3rd Place)
+  - **Description:** An award-winning system that facilitates remote management of hotel rooms through an AI-supported IoT infrastructure.
+  - **Technologies:** `Flutter`, `AWS` (IoT Core, MQTT, Lambda, DynamoDB), `Amplify v2`, `GraphQL`, `Raspberry Pi`.
+  - **Achievement:** Secured a top-three finish in a highly competitive national technology competition.
+
+- ### InvoiX: AI Invoice Analyzer
+  - **Description:** An intelligent application for analyzing and categorizing invoices, currently under development.
+  - **Product Link:** [sc-riber.com/products/invoix](https://sc-riber.com/products/invoix)
+  - **Technologies:** `Flutter`, `Google ML Kit`, `Gemini API`, `Firebase`.
+
+- ### Autonomous Landing System (Teknofest Finalist)
+  - **Description:** Developed an artificial intelligence and visual position estimation algorithm to control drone landing, identifying safe zones and obstacles.
+  - **Technologies:** `Python`, `OpenCV`, `YOLO`, Computer Vision Libraries.
+  - **Achievement:** Recognized as a finalist for its innovative approach to autonomous control.
+
+- ### Satellite Payload Software (Teknofest)
+  - **Description:** Engineered functional embedded software for a satellite payload. The system managed data telemetry, parachute deployment, and live video transmission with a command-based color filter.
+  - **Technologies:** `STM32 F401 (FreeRTOS)`, `Raspberry Pi` (Zero W & Camera), `LoRa`, `TS/RS822`, `Servo Motors`, Sensors (`BMP280`, `MPU9250`).
+  - **Note:** This project involved complex hardware-software integration under challenging constraints.
+
+</details>
 
 <div align="center">
 <details>
