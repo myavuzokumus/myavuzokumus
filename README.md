@@ -35,7 +35,7 @@ A selection of my work, including proprietary and open-source projects:
 <summary><b>Click to expand and see project details</b></summary>
 <br>
 
-- ### Cloud-Native Microservices Architecture
+- ### [Cloud-Native Microservices Architecture](https://github.com/myavuzokumus/bbk-atlas-ecommerce-microservices)
   - **Description:** Designed and built a modern, fast, and reliable microservices system ready for Kubernetes deployment.
   - **Technologies:** `Cloudflare` (Workers, Tunnels), `Docker`, `Traefik` (Load Balancer), `Flutter`, `GraphQL`, `FastAPI`, `RabbitMQ`, `Couchbase`, `VictoriaMetrics` & `Grafana`.
   - **Note:** This project is a proprietary, full-stack implementation showcasing modern DevOps and backend principles.
@@ -44,21 +44,23 @@ A selection of my work, including proprietary and open-source projects:
   - **Description:** An award-winning system that facilitates remote management of hotel rooms through an AI-supported IoT infrastructure.
   - **Technologies:** `Flutter`, `AWS` (IoT Core, MQTT, Lambda, DynamoDB), `Amplify v2`, `GraphQL`, `Raspberry Pi`.
   - **Achievement:** Secured a top-three finish in a highly competitive national technology competition.
+  - The project code source will be available soon.
 
-- ### InvoiX: AI Invoice Analyzer
+- ### [InvoiX: AI Invoice Analyzer](https://sc-riber.com/products/invoix)
   - **Description:** An intelligent application for analyzing and categorizing invoices, currently under development.
-  - **Product Link:** [sc-riber.com/products/invoix](https://sc-riber.com/products/invoix)
   - **Technologies:** `Flutter`, `Google ML Kit`, `Gemini API`, `Firebase`.
 
 - ### Autonomous Landing System (Teknofest Finalist)
   - **Description:** Developed an artificial intelligence and visual position estimation algorithm to control drone landing, identifying safe zones and obstacles.
   - **Technologies:** `Python`, `OpenCV`, `YOLO`, Computer Vision Libraries.
   - **Achievement:** Recognized as a finalist for its innovative approach to autonomous control.
+  - The project code source will be available soon.
 
 - ### Satellite Payload Software (Teknofest)
   - **Description:** Engineered functional embedded software for a satellite payload. The system managed data telemetry, parachute deployment, and live video transmission with a command-based color filter.
   - **Technologies:** `STM32 F401 (FreeRTOS)`, `Raspberry Pi` (Zero W & Camera), `LoRa`, `TS/RS822`, `Servo Motors`, Sensors (`BMP280`, `MPU9250`).
   - **Note:** This project involved complex hardware-software integration under challenging constraints.
+  - The project code source will be available soon.
 
 </details>
 
