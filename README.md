@@ -8,11 +8,6 @@ My professional focus is concentrated on two core pillars where I aim to deliver
 *   **🧠 AI & Machine Learning:** Architecting and deploying production-grade intelligent systems. My expertise spans from computer vision pipelines with `Python` and `Langchain` to exploring next-generation AI performance with `Mojo 🔥`.
 *   **☁️ Cloud-Native & High-Performance Systems:** Forging rock-solid, lightning-fast services with `Rust` and deploying them on scalable cloud infrastructure using technologies like `AWS`, `Cloudflare` and `Docker`.
 
-Beyond my core focus, I leverage my experience in frontend and game development as a creative outlet and to build full-stack personal projects:
-
-*   **📱 Frontend & Mobile:** Using `Flutter` to create intuitive user interfaces for my backend services.
-*   **🎮 Game Development:** Exploring creativity and interactive design with the `Godot Engine`.
-
 ---
 
 ### 🔭 What I'm Focused On Now
@@ -20,10 +15,6 @@ Beyond my core focus, I leverage my experience in frontend and game development 
 My primary goal is to deepen my expertise in AI and Cloud technologies:
 *   **Mastering `Rust`:** Building a deep understanding of systems programming for high-performance cloud services.
 *   **Production-Ready AI:** Architecting scalable, end-to-end MLOps pipelines with `Python` and `FastAPI`.
-
-As a passion, I continue to:
-*   **Build `SCSmash!`:** My personal game project using the `Godot Engine`.
-*   **Explore `Swift`:** Strategically learning Swift to understand native platform capabilities.
 
 ---
 
