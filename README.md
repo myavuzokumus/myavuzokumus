@@ -1,28 +1,39 @@
-# Hi, it's me, Yavuz! 👋
-### Software Engineer specializing in AI & Cloud-Native Systems
+# Hi, I'm Yavuz. 👋
 
-> I'm an engineer driven by a simple belief: for every complex problem, there is an elegant, high-performance solution waiting to be built. My journey, inspired by the boundless worlds of gaming, has evolved into a passion for architecting intelligent, robust, and beautiful systems—from the bare metal to the user's fingertips.
+### AI Platform Engineer | Cloud-Native Systems
 
-My professional focus is concentrated on two core pillars where I aim to deliver maximum impact:
-
-*   **🧠 AI & Machine Learning:** Architecting and deploying production-grade intelligent systems. My expertise spans from computer vision pipelines with `Python` and `Langchain` to exploring next-generation AI performance with `Mojo 🔥`.
-*   **☁️ Cloud-Native & High-Performance Systems:** Forging rock-solid, lightning-fast services with `Rust` and deploying them on scalable cloud infrastructure using technologies like `AWS`, `Cloudflare` and `Docker`.
+> I bridge the gap between **Model Training** and **Production Serving**.
+>
+> My passion lies at the intersection of **High-Performance Infrastructure (SRE)** and **Applied AI**. I don't just write code; I architect robust, scalable systems where AI lives—from optimizing training pipelines with `Unsloth` to orchestrating microservices on `Kubernetes`.
 
 ---
 
-### 🔭 What I'm Focused On Now
+### 🚀 Core Competencies & Tech Stack
 
-My primary goal is to deepen my expertise in AI and Cloud technologies:
-*   **Mastering `Rust`:** Building a deep understanding of systems programming for high-performance cloud services.
-*   **Production-Ready AI:** Architecting scalable, end-to-end MLOps pipelines with `Python` and `FastAPI`.
+I focus on building systems that are **reliable, observable, and scalable**.
+
+| Domain | Technologies & Tools |
+| :--- | :--- |
+| **🧠 AI & LLM Ops** | `Python`, `LangChain`, `Unsloth` (Fine-Tuning), `Vector Databases`, `RAG Pipelines` |
+| **☁️ Cloud & SRE** | `Kubernetes`, `Docker`, `Terraform`, `Cloudflare`, `AWS` |
+| **🛠️ Backend & Systems** | `Rust` (High-Performance Systems), `FastAPI`, `RabbitMQ`, `gRPC` |
+| **📊 Observability** | `Prometheus`, `Grafana`, `VictoriaMetrics`, `Linux` |
 
 ---
 
-### 🏆 Key Projects & Professional Experience
+### 🔭 Current Focus
 
-A selection of my work, including proprietary and open-source projects:
+My primary goal is deepening my expertise in the **End-to-End AI Lifecycle**:
+*   **LLM Fine-Tuning:** Leveraging **Unsloth** and **PEFT/LoRA** to optimize open-source models for specific domains.
+*   **Inference Optimization:** Building low-latency serving layers using **Rust** and cloud-native patterns.
 
-<details>
+---
+
+### 🏛️ Engineering Showcase
+
+A selection of my work focusing on system architecture and AI pipelines:
+
+<details open>
 <summary><b>Click to expand and see project details</b></summary>
 <br>
 
@@ -31,7 +42,7 @@ A selection of my work, including proprietary and open-source projects:
   - **Technologies:** `Cloudflare` (Workers, Tunnels), `Docker`, `Traefik` (Load Balancer), `Flutter`, `GraphQL`, `FastAPI`, `RabbitMQ`, `Couchbase`, `VictoriaMetrics` & `Grafana`.
   - **Note:** This project is a proprietary, full-stack implementation showcasing modern DevOps and backend principles.
 
-- ### AI-Powered IoT Hotel Management (Teknofest 3rd Place)
+- ### [AI-Powered IoT Hotel Management (Teknofest 3rd Place)](https://sc-riber.com/projects/hotelmind)
   - **Description:** An award-winning system that facilitates remote management of hotel rooms through an AI-supported IoT infrastructure.
   - **Technologies:** `Flutter`, `AWS` (IoT Core, MQTT, Lambda, DynamoDB), `Amplify v2`, `GraphQL`, `Raspberry Pi`.
   - **Achievement:** Secured a top-three finish in a highly competitive national technology competition.
@@ -56,17 +67,19 @@ A selection of my work, including proprietary and open-source projects:
 </details>
 
 <div align="center">
+<br>
 <details>
-<summary><b>My GitHub Stats</b></summary>
+<summary><b>GitHub Statistics</b></summary>
+<br>
 
 <a href="http://www.github.com/myavuzokumus"><img src="https://github-readme-streak-stats.herokuapp.com/?user=myavuzokumus&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 <a href="http://www.github.com/myavuzokumus"><img src="https://github-readme-stats.vercel.app/api?username=myavuzokumus&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="myavuzokumus's GitHub stats" /></a>
 
-<a href="http://www.github.com/myavuzokumus"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=myavuzokumus&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages&layout=compact" /></a>
+<a href="http://www.github.com/myavuzokumus"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=myavuzokumus&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages&layout=compact" /></a>
 
 </details>
 
-
-<a href="https://www.buymeacoffee.com/myavuzokumus"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
+<br>
+<a href="https://www.buymeacoffee.com/myavuzokumus"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="180" /></a>
 </div>
