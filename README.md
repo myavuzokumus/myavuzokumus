@@ -1,10 +1,10 @@
 # Hi, I'm Yavuz. 👋
 
-### AI Platform Engineer | Cloud-Native Systems
+### Software Engineer | Cloud & Backend Systems
 
-> I bridge the gap between **Model Training** and **Production Serving**.
+> I bridge the critical gap between **Raw LLM Capabilities** and **Robust Production Systems**.
 >
-> My passion lies at the intersection of **High-Performance Infrastructure (SRE)** and **Applied AI**. I don't just write code; I architect robust, scalable systems where AI lives—from optimizing training pipelines with `Unsloth` to orchestrating microservices on `Kubernetes`.
+> My passion lies at the intersection of **High-Performance Infrastructure (SRE)** and **Applied AI**. I don't just write code; I architect scalable, cloud-native platforms where intelligent systems live—transitioning from simple API wrappers to complex architectures and orchestrations on `Kubernetes`.
 
 ---
 
@@ -14,39 +14,45 @@ I focus on building systems that are **reliable, observable, and scalable**.
 
 | Domain | Technologies & Tools |
 | :--- | :--- |
-| **🧠 AI & LLM Ops** | `Python`, `LangChain`, `Unsloth` (Fine-Tuning), `Vector Databases`, `RAG Pipelines` |
-| **☁️ Cloud & SRE** | `Kubernetes`, `Docker`, `Terraform`, `Cloudflare`, `AWS` |
-| **🛠️ Backend & Systems** | `Rust` (High-Performance Systems), `FastAPI`, `RabbitMQ`, `gRPC` |
-| **📊 Observability** | `Prometheus`, `Grafana`, `VictoriaMetrics`, `Linux` |
+| **🧠 Languages** | `Python`, `Dart`, `TypeScript` |
+| **☁️ Cloud & SRE** | `AWS`, `Kubernetes`, `Docker`, `Terraform`, `Cloudflare` |
+| **🛠️ AI & Data** | `LangGraph`, `QDrant`, `MemGraph` |
+| **📊 Tools** | `VictoriaMetrics`, `Grafana`, `Git`, `Linux`, `FastAPI` |
 
 ---
 
 ### 🔭 Current Focus
 
-My primary goal is deepening my expertise in the **End-to-End AI Lifecycle**:
-*   **LLM Fine-Tuning:** Leveraging **Unsloth** and **PEFT/LoRA** to optimize open-source models for specific domains.
-*   **Inference Optimization:** Building low-latency serving layers using **Rust** and cloud-native patterns.
+My primary goal is deepening my expertise in **Cloud-Native AI Architecture**:
+* **Agentic Workflows:** Building stateful, memory-aware AI agents using **LangGraph** and **Mem0**.
+* **Infrastructure as Code:** Automating scalable deployments using **Terraform** on AWS.
 
 ---
 
 ### 🏛️ Engineering Showcase
 
-A selection of my work focusing on system architecture and AI pipelines:
+A selection of my work focusing on system architecture, IoT, and AI pipelines:
 
 <details open>
 <summary><b>Click to expand and see project details</b></summary>
 <br>
 
+- ### [The Riber: Multi-Modal Edge AI Orchestration Engine](https://sc-riber.com) *(Prototype / In Development)*
+  - **Description:** A self-hosted, privacy-first AI agent framework replacing SaaS dependencies. Orchestrates a **Stateful Multi-Agent System** using **LangGraph** with **<500ms** audio-to-audio latency.
+  - **Stack:** `LangGraph`, `Memgraph`, `LlamaIndex`, `Qdrant`, `Mem0`, `Docker`, `FastAPI`, `Gemini 2.5 Live`.
+  - *Note: This project is currently a private repository focusing on advanced R&D.*
+
+- ### [HotelMind: AWS IoT & Hardware System](https://sc-riber.com/projects/hotelmind) *(Teknofest 3rd Place)*
+  - **Description:** An award-winning system that facilitates remote management of hotel rooms through an AI-supported IoT infrastructure.
+  - **Architecture:** Built on **AWS IoT Core** using MQTT for real-time bidirectional communication between mobile apps and edge devices.
+  - **Stack:** `AWS` (IoT Core, Lambda, DynamoDB), `Flutter`, `Raspberry Pi`, `MQTT`.
+  - **Achievement:** Secured a top-three finish in a highly competitive national technology competition.
+  - The project code source will be available soon.
+
 - ### [Cloud-Native Microservices Architecture](https://github.com/myavuzokumus/bbk-atlas-ecommerce-microservices)
   - **Description:** Designed and built a modern, fast, and reliable microservices system ready for Kubernetes deployment.
   - **Technologies:** `Cloudflare` (Workers, Tunnels), `Docker`, `Traefik` (Load Balancer), `Flutter`, `GraphQL`, `FastAPI`, `RabbitMQ`, `Couchbase`, `VictoriaMetrics` & `Grafana`.
   - **Note:** This project is a proprietary, full-stack implementation showcasing modern DevOps and backend principles.
-
-- ### [AI-Powered IoT Hotel Management (Teknofest 3rd Place)](https://sc-riber.com/projects/hotelmind)
-  - **Description:** An award-winning system that facilitates remote management of hotel rooms through an AI-supported IoT infrastructure.
-  - **Technologies:** `Flutter`, `AWS` (IoT Core, MQTT, Lambda, DynamoDB), `Amplify v2`, `GraphQL`, `Raspberry Pi`.
-  - **Achievement:** Secured a top-three finish in a highly competitive national technology competition.
-  - The project code source will be available soon.
 
 - ### [InvoiX: AI Invoice Analyzer](https://sc-riber.com/products/invoix)
   - **Description:** An intelligent application for analyzing and categorizing invoices, currently under development.
@@ -57,6 +63,8 @@ A selection of my work focusing on system architecture and AI pipelines:
   - **Technologies:** `Python`, `OpenCV`, `YOLO`, Computer Vision Libraries.
   - **Achievement:** Recognized as a finalist for its innovative approach to autonomous control.
   - The project code source will be available soon.
+  - Medium articles about the project where I fixed are problems.
+    - [Visual Odometry](https://medium.com/@myavuzokumus/built-in-4-days-in-a-container-office-a-from-scratch-visual-odometry-pipeline-and-the-hard-d3c62a265720)
 
 - ### Satellite Payload Software (Teknofest)
   - **Description:** Engineered functional embedded software for a satellite payload. The system managed data telemetry, parachute deployment, and live video transmission with a command-based color filter.
