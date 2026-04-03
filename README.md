@@ -47,7 +47,6 @@ A selection of my work focusing on system architecture, IoT, and AI pipelines:
   - **Architecture:** Built on **AWS IoT Core** using MQTT for real-time bidirectional communication between mobile apps and edge devices.
   - **Stack:** `AWS` (IoT Core, Lambda, DynamoDB), `Flutter`, `Raspberry Pi`, `MQTT`.
   - **Achievement:** Secured a top-three finish in a highly competitive national technology competition.
-  - The project code source will be available soon.
 
 - ### [Cloud-Native Microservices Architecture](https://github.com/myavuzokumus/bbk-atlas-ecommerce-microservices)
   - **Description:** Designed and built a modern, fast, and reliable microservices system ready for Kubernetes deployment.
@@ -66,11 +65,10 @@ A selection of my work focusing on system architecture, IoT, and AI pipelines:
   - Medium articles about the project where I fixed are problems.
     - [Visual Odometry](https://medium.com/@myavuzokumus/built-in-4-days-in-a-container-office-a-from-scratch-visual-odometry-pipeline-and-the-hard-d3c62a265720)
 
-- ### Satellite Payload Software (Teknofest)
+- ### [Satellite Payload Software (Teknofest)](https://github.com/myavuzokumus/LUNA_Panel)
   - **Description:** Engineered functional embedded software for a satellite payload. The system managed data telemetry, parachute deployment, and live video transmission with a command-based color filter.
   - **Technologies:** `STM32 F401 (FreeRTOS)`, `Raspberry Pi` (Zero W & Camera), `LoRa`, `TS/RS822`, `Servo Motors`, Sensors (`BMP280`, `MPU9250`).
   - **Note:** This project involved complex hardware-software integration under challenging constraints.
-  - The project code source will be available soon.
 
 </details>
 
