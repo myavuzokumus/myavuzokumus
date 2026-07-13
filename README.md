@@ -4,7 +4,7 @@
 
 > I bridge the critical gap between **Raw LLM Capabilities** and **Robust Production Systems**.
 >
-> My passion lies at the intersection of **High-Performance Infrastructure (SRE)** and **Applied AI**. I don't just write code; I architect scalable, cloud-native platforms where intelligent systems live—transitioning from simple API wrappers to complex architectures and orchestrations on `Kubernetes`.
+> My passion lies at the intersection of **High-Performance Infrastructure (SRE)** and **Applied AI**. I don't just write code; I architect scalable, cloud-native platforms where intelligent systems live—transitioning from simple API wrappers to complex architectures.
 
 ---
 
@@ -15,7 +15,7 @@ I focus on building systems that are **reliable, observable, and scalable**.
 | Domain | Technologies & Tools |
 | :--- | :--- |
 | **🧠 Languages** | `Python`, `Dart`, `TypeScript` |
-| **☁️ Cloud & SRE** | `AWS`, `Kubernetes`, `Docker`, `Terraform`, `Cloudflare` |
+| **☁️ Cloud & SRE** | `AWS`, `Docker`, `Terraform`, `Cloudflare` |
 | **🛠️ AI & Data** | `LangGraph`, `QDrant`, `MemGraph` |
 | **📊 Tools** | `VictoriaMetrics`, `Grafana`, `Git`, `Linux`, `FastAPI` |
 
@@ -39,7 +39,7 @@ A selection of my work focusing on system architecture, IoT, and AI pipelines:
 
 - ### [The Riber: Multi-Modal Edge AI Orchestration Engine](https://github.com/myavuzokumus/TheRiber) *(Prototype / In Development)*
   - **Description:** A self-hosted, privacy-first AI agent framework replacing SaaS dependencies. Orchestrates a **Stateful Multi-Agent System** with **<500ms** audio-to-audio latency.
-  - **Stack:** `Langchain`, `Mem0`, `LlamaIndex`, `Qdrant`, `Terraform`, `Docker`, `FastAPI`, `Omni Live Models`.
+  - **Stack:** `Langchain`, `Mem0`, `LlamaIndex`, `Qdrant`, `Terraform`, `Docker`, `FastAPI`, `Omni Live Models`, `OpenCV`, `Voice Sampler`.
   - *Note: This project is currently a private repository focusing on advanced R&D.*
 
 - ### [HotelMind: AWS IoT & Hardware System](https://sc-riber.com/projects/hotelmind) *(Teknofest 3rd Place)*
