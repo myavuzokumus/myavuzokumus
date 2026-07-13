@@ -16,8 +16,8 @@ I focus on building systems that are **reliable, observable, and scalable**.
 | :--- | :--- |
 | **🧠 Languages** | `Python`, `Dart`, `TypeScript` |
 | **☁️ Cloud & SRE** | `AWS`, `Docker`, `Terraform`, `Cloudflare` |
-| **🛠️ AI & Data** | `LangGraph`, `QDrant`, `MemGraph` |
-| **📊 Tools** | `VictoriaMetrics`, `Grafana`, `Git`, `Linux`, `FastAPI` |
+| **🛠️ AI & Data** | `LlamaIndex`, `QDrant`, `Mem0` |
+| **📊 Tools** | `Grafana`, `Git`, `Linux`, `FastAPI` |
 
 ---
 
