@@ -37,9 +37,9 @@ A selection of my work focusing on system architecture, IoT, and AI pipelines:
 <summary><b>Click to expand and see project details</b></summary>
 <br>
 
-- ### [The Riber: Multi-Modal Edge AI Orchestration Engine](https://sc-riber.com) *(Prototype / In Development)*
-  - **Description:** A self-hosted, privacy-first AI agent framework replacing SaaS dependencies. Orchestrates a **Stateful Multi-Agent System** using **LangGraph** with **<500ms** audio-to-audio latency.
-  - **Stack:** `LangGraph`, `Memgraph`, `LlamaIndex`, `Qdrant`, `Mem0`, `Docker`, `FastAPI`, `Gemini 2.5 Live`.
+- ### [The Riber: Multi-Modal Edge AI Orchestration Engine](https://github.com/myavuzokumus/TheRiber) *(Prototype / In Development)*
+  - **Description:** A self-hosted, privacy-first AI agent framework replacing SaaS dependencies. Orchestrates a **Stateful Multi-Agent System** with **<500ms** audio-to-audio latency.
+  - **Stack:** `Langchain`, `Mem0`, `LlamaIndex`, `Qdrant`, `Terraform`, `Docker`, `FastAPI`, `Omni Live Models`.
   - *Note: This project is currently a private repository focusing on advanced R&D.*
 
 - ### [HotelMind: AWS IoT & Hardware System](https://sc-riber.com/projects/hotelmind) *(Teknofest 3rd Place)*
